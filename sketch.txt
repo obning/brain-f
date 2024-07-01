@@ -1,0 +1,19 @@
+Attribute Range   Values
+program   0 - 13  +>++++++>,<<[]
+ip        0       '
+ram       0 - 7   0 0 0 0 0 0 0 0
+dp        0       '  
+
+
+Attribute Range   Values
+program   0 - 13  +>++++++>,<<[]
+ip        1        ' 
+ram       0 - 7   1 0 0 0 0 0 0 0
+dp        0       '
+
+  
+Attribute Range   Values
+program   0 - 13  +>++++++>,<<[]
+ip        1         ' 
+ram       0 - 7   1 0 0 0 0 0 0 0
+dp        1         '  

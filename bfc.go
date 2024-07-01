@@ -71,7 +71,9 @@ func bfc(cCtx *cli.Context) error {
 			ip += 1
 			fmt.Println("[")
 		case "]":
-			ip = stack.Pop()
+			if ram[dp] != 0 {
+				ip = stack.Pop()
+			}
 			ip += 1
 			fmt.Println("]")
 		case ">":
